@@ -1,4 +1,4 @@
-![Tutorials](/assets/banner-tutorials.png)
+<!-- ![Tutorials](/assets/banner-tutorials.png) -->
 
 # Tutorials
 
