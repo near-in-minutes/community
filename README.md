@@ -1,4 +1,4 @@
-![Community content](/assets/banner-community-content.png)
+<!-- ![Community content](/assets/banner-community-content.png) -->
 
 # Community content
 
