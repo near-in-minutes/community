@@ -15,7 +15,7 @@ There are different cases for adding a tutorial:
 
 ### How to request a tutorial
 
-- Create an issue with the template [Request a tutorial](https://github.com/ozanisgor/near-in-minutes/issues/new?assignees=Mcastres&labels=To+do&template=request-a-tutorial.md&title=%5BREQUEST%5D)
+- Create an issue with the template [Request a tutorial](https://github.com/h4-d1/near-in-minutes/issues/new?assignees=Mcastres&labels=To+do&template=request-a-tutorial.md&title=%5BREQUEST%5D)
 - Assign all the necessary labels including the `To do` label
 
 ### How to consult tutorials ideas
@@ -24,7 +24,7 @@ There are different cases for adding a tutorial:
 
 ## How to record a tutorial
 
-If you intend to create a tutorial, please check our [guidelines](https://github.com/ozanisgor/near-in-minutes/blob/master/tutorials/GUIDELINES.md) first.
+If you intend to create a tutorial, please check our [guidelines](https://github.com/h4-d1/near-in-minutes/blob/master/tutorials/GUIDELINES.md) first.
 
 There are different cases:
 
