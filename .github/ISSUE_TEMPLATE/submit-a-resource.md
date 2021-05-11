@@ -17,11 +17,6 @@ To make your issue readable make sure you use valid Markdown syntax.
 Please describe what your resource will be about. (article or video).
 -->
 
-**My format**
-
-- [ ] Article
-- [ ] Video
-
 **What do you all think?**
 ❤️ I love it!
 🚀 I can help you!
