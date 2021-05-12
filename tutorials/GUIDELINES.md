@@ -1,4 +1,4 @@
-# Near in Minutes Tutorials Guideline
+# NEAR in Minutes Tutorials Guideline
 
 ## Video
 

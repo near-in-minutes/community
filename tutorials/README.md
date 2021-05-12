@@ -41,21 +41,21 @@ There are different cases:
 **Please follow this format and indentation:**
 
 ```yaml
-- title: Usage of near create-account command
- link: https://blog.nearinminutes.com/near-cli-create-account/
- formats:
-   - video
- language: en
- date: 2021-05-11
- authors:
-   - Çağatay Soyer
- github_authors:
-   - norrec99
- source: https://www.loom.com/share/104c702752e84ab486060ea052bc4438
- use_case: "account creation with near-cli"
- stack:
-   - nodejs
- version: beta
+- title: Usage of `near create-account` command
+  link: https://blog.nearinminutes.com/near-cli-create-account/
+  formats:
+    - video
+  language: en
+  date: 2021-05-11
+  authors:
+    - Çağatay Soyer
+  github_authors:
+    - norrec99
+  source: https://www.loom.com/share/104c702752e84ab486060ea052bc4438
+  use_case: "account creation with near-cli"
+  stack:
+    - nodejs
+  version: beta
 ```
 
 - `title` - Title of tutorial (`string`; **required**)

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NEAR Discord Community
+    url: https://near.chat
+    about: Please join us on Discord to learn more about NEAR Protocol
+  - name: NEAR Academy
+    url: https://near.academy
+    about: A gentle introduction to blochain technology and the NEAR platform
+  - name: NEAR Website
+    url: https://near.org
+    about: NEAR Protocol - Infrastructure for Innovation
