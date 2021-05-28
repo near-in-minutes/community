@@ -8,6 +8,8 @@ assignees:
 
 **Suggestion**
 
+📌
+
 <!--
 Hello 👋 Thank you for suggesting a new topic.
 
