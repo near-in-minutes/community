@@ -12,6 +12,8 @@ assignees:
 Hello 👋 Thank you for supporting translations of NEAR in Minutes.
 
 For new translations, please include the source (for example, "en") and destination (for example, "ru") text and audio.  If you will record a new video, please include transcription of your translation.
+
+Please add issue url of the existing content to be translate
 -->
 
 **Community Votes**
