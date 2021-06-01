@@ -3,10 +3,12 @@ name: Suggest New Topic
 about: Suggest a topic to cover in the NEAR in Minutes series
 title: "[NEW TOPIC]"
 labels: looking for creator, incoming
-assignees:
+assignees: ozanisgor
 ---
 
 **Suggestion**
+
+📌
 
 <!--
 Hello 👋 Thank you for suggesting a new topic.
