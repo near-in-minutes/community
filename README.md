@@ -14,7 +14,9 @@ Contribute and collaborate on educational content for the "NEAR in Minutes" Comm
 
 ## How to contribute
 
-If you notice a bug, you have a topic to see or you created a tutorial for Near In Minutes then you can follow along with the [How To Contribute](how-to-contribute.md) guideline to contribute our community.
+If you notice a bug, you have a topic to see or you created a tutorial for Near In Minutes then you can follow along with the "How To Contribute" guideline to contribute our community.
+
+[How To Contribute](how-to-contribute.md)
 
 ## Contributors
 
