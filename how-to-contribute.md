@@ -20,7 +20,7 @@ You can record a video for suggested topics using [Submit New Content](https://g
 
 ## Submit / Propose Translate for Existing Content
 
-You can translate submitted contents to other languages using [Translate Existing Content](https://github.com/near-in-minutes/community/issues/new?assignees=&labels=translation%2C+incoming&template=translate-existing-content.md&title=%5BNEW+TRANSLATION%5D) template.
+You can propose or submit translate for existing content to other languages using [Translate Existing Content](https://github.com/near-in-minutes/community/issues/new?assignees=&labels=translation%2C+incoming&template=translate-existing-content.md&title=%5BNEW+TRANSLATION%5D) template.
 
 ### Propose
 
