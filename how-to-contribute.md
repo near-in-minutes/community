@@ -1,6 +1,6 @@
 # How To Contribute
 
-Video guide
+
 
 ## Report an Issue
 
