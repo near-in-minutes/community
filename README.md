@@ -4,7 +4,6 @@
 
 Contribute and collaborate on educational content for the "NEAR in Minutes" Community.
 
-<website_here>
 
 ## Where to contribute
 
