@@ -25,4 +25,5 @@ Thank you to all the people who created content for the community!
 <p float="left">
   <img src="https://github.com/ozanisgor.png" width="80" height="80" />
   <img src="https://github.com/amgando.png" width="80" height="80" />
+  <img src="https://github.com/norrec99.png" width="80" height="80" />
 </p>
