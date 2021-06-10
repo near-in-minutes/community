@@ -1,9 +1,8 @@
-![Near In Minutes](assets/near-in-minutes-banner.png)
+![Near In Minutes](assets/near-in-minutes-banner-bg-white.png)
 
 # Community content
 
 Contribute and collaborate on educational content for the "NEAR in Minutes" Community.
-
 
 ## Where to contribute
 
